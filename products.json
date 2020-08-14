@@ -1,0 +1,20 @@
+{
+    "products": {
+        "154":{
+            "nombre": "Notebook",
+            "precio": "800"
+        },
+        "2345": {
+            "nombre": "mouse",
+            "precio": "40"
+        },
+        "234": {
+            "nombre": "teclado",
+            "precio": "50"
+        },
+        "232": {
+            "nombre": "parlantes",
+            "precio": "70"
+        }
+    }
+}
